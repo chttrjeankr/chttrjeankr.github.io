@@ -4,10 +4,10 @@
 
 - 🔭 I’m currently working as a Django developer
 - 🌱 I’m trying to learn more of JavaScript and DRF
-- 👯 I’m open to collaborate on anything that intrigues me :handshake:
+- 👯 I’m open to collaborate on anything that intrigues me 🤝
 - 🤔 I’m looking for tips in Django development and Django REST framework
-- 💬 Ask me about Python :snake:. I'm sure I'll be able to help.
-- 😄 Pronouns: He/Him :man:
+- 💬 Ask me about Python 🐍. I'm sure I'll be able to help.
+- 😄 Pronouns: He/Him 🧔
 - ⚡ Fun fact: I'm a Potterhead 🧙 Always
 
 > When in doubt, read documentation. When you're sure, read documentation nevertheless. There's always something new to learn.
