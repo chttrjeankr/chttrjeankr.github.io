@@ -2,8 +2,8 @@
 
 <a href="https://www.python.org/dev/peps/pep-0020/#id2" target="blank"><img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" align="right" height="250px"></a>
 
-- 🔭 I’m currently working as a webMethods Integration developer
-- 🌱 I’m trying to learn more of Jenkins and use more of Scrum
+- 🔭 I’m currently working as a DevOps Engineer and a webMethods Integration Developer
+- 🌱 I’m trying to learn more of Azure DevOps and use more of Scrum
 - 👯 I’m open to collaborate on anything that intrigues me 🤝
 - 💬 Ask me about Python 🐍. I'm sure I'll be able to help.
 - 😄 Pronouns: He/Him 🧔
